@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi everybody 👋
+
+With a past in DB Migrations and webforms, one day I fell in love with web development :heart:
+
+I like to test bleeding edge web APIs :rocket: and create PWAs :no_mobile_phones: and sometimes I even write about it on [Twitter](https://twitter.com/paco_ITA) or on [Dev.to](https://dev.to/paco_ita)
 
 <!--
 **pacoita/pacoita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
