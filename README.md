@@ -1,8 +1,23 @@
-### Hi everybody 👋
+## 👨🏻‍💻 Who am I
+Originally from Italy, I am currently based in Zurich, Switzerland, working as Senior Software Engineer and Angular Trainer @ [Trivadis](https://www.trivadis.com/en/index.html)
+Even though I work as a full stack engineer, having .NET and C# as my backend side, I am a big fan of web technologies, specifically PWAs and web APIs.
+I love to constantly experiment them in side projects and share my findings at conferences or writing tech articles.
 
-With a past in DB Migrations and webforms, one day I fell in love with web development :heart:
+## 🌎 Where you can find me
+ - [Twitter](https://twitter.com/paco_ITA) 
+ - [Dev.to](https://dev.to/paco_ita)
 
-I like to test bleeding edge web APIs :rocket: and create PWAs :no_mobile_phones: and sometimes I even write about it on [Twitter](https://twitter.com/paco_ITA) or on [Dev.to](https://dev.to/paco_ita)
+## Some side projects currently open 
+ - [Modern Web APIs samples](https://github.com/pacoita/modern-web): I am planning to extend the APIs displayed there. If you would like to see one specific web API, contact me.
+ - [Starting kit for Angular with PWAs](https://github.com/pacoita/angular-pwa-boilerplate): a full working example using caching strategies for static assets and also GET requests. 
+
+## 📈 GitHub Stats
+<a href="https://github.com/pacoita/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacoita&hide=java,html,powershell,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/pacoita/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pacoita&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francsco's GitHub Stats" />
+</a>
 
 <!--
 **pacoita/pacoita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
