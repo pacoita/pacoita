@@ -7,6 +7,7 @@ I love to constantly experiment them in side projects and share my findings at c
 ## 🌎 Where you can find me
  - [Twitter](https://twitter.com/paco_ITA) 
  - [Dev.to](https://dev.to/paco_ita)
+ - [Linkedin](https://www.linkedin.com/in/leardini81)
 
 ## 💻 Some side projects currently open 
  - [Modern Web APIs samples](https://github.com/pacoita/modern-web): I am planning to extend the APIs displayed there. If you would like to see one specific web API, contact me.
