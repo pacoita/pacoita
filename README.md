@@ -6,9 +6,13 @@ I love to constantly experiment them in side projects and share my findings at c
 
 ## 🗺️ Where you can find me
  - [Educative.io courses](https://www.educative.io/search?query=leardini)
- - [Twitter](https://twitter.com/paco_ITA) 
  - [Dev.to](https://dev.to/paco_ita)
- - [Linkedin](https://www.linkedin.com/in/leardini81)
+ <a href="https://twitter.com/paco_ITA">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> 
+<a href="https://www.linkedin.com/in/leardini81">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ## 💻 Some side projects currently open 
  - [Modern Web APIs samples](https://github.com/pacoita/modern-web): I am planning to extend the APIs displayed there. If you would like to see one specific web API, contact me.
@@ -16,13 +20,18 @@ I love to constantly experiment them in side projects and share my findings at c
  - [Deno API server](https://github.com/pacoita/deno-api-mock): a sample app, showing how to use Deno as REST API mock for an Angular project
 
 ## 📈 GitHub Stats
-<a href="https://github.com/pacoita/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacoita&hide=java,html,powershell,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacoita&theme=tokyonight-duo&background=000000)](https://git.io/streak-stats)
+[![Github stars](https://github-readme-stats.vercel.app/api?username=pacoita)](https://github-readme-stats.vercel.app/api?username=pacoita)
+<br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacoita&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
+<!--
 <a href="https://github.com/pacoita/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pacoita&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francsco's GitHub Stats" />
 </a>
-
+-->
 <!--
 **pacoita/pacoita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
