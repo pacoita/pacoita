@@ -20,8 +20,9 @@ I love to constantly experiment them in side projects and share my findings at c
  - [Deno API server](https://github.com/pacoita/deno-api-mock): a sample app, showing how to use Deno as REST API mock for an Angular project
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacoita&layout=compact&theme=vision-friendly-dark)
+
 ![Github stars](https://github-readme-stats.vercel.app/api?username=pacoita&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacoita&layout=compact&theme=vision-friendly-dark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacoita&theme=tokyonight-duo&background=000000)
 
 <!--
