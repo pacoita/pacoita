@@ -16,7 +16,7 @@ I love to constantly experiment them in side projects and share my findings at c
 
 ## 💻 Some of my side projects
  - [Modern Web APIs samples](https://github.com/pacoita/modern-web): I am planning to extend the APIs displayed there. If you would like to see one specific web API, contact me.
- - [Angular starter kit for PWAs](https://github.com/pacoita/angular-pwa-boilerplate): a full working example using caching strategies for static assets and also GET requests. 
+ - [Angular starter kit for PWAs](https://github.com/pacoita/angular-pwa-boilerplate): a full working example for offline first approach and using caching strategies for server requests. 
  - [Deno API server](https://github.com/pacoita/deno-api-mock): a sample app, showing how to use Deno as REST API mock for an Angular project
 
 ## 📈 GitHub Stats
