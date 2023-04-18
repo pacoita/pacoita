@@ -21,15 +21,10 @@ I love to constantly experiment them in side projects and share my findings at c
 
 ## 📈 GitHub Stats
 
-![Github stars](https://github-readme-stats.vercel.app/api?username=pacoita&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_title=true&card_width=495px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacoita&layout=compact&theme=vision-friendly-dark)
+![Github stars](https://paco-github-stats-p2xs.vercel.app/api?username=pacoita&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_title=true&card_width=495px)
+![Top Langs](https://paco-github-stats-p2xs.vercel.app/api/top-langs/?username=pacoita&layout=compact&theme=vision-friendly-dark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pacoita&theme=tokyonight-duo&background=000000)
 
-<!--
-<a href="https://github.com/pacoita/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pacoita&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Francsco's GitHub Stats" />
-</a>
--->
 <!--
 **pacoita/pacoita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
