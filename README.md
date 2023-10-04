@@ -5,7 +5,7 @@ Even though I work as a full stack engineer, having .NET and C# as my backend si
 I love to constantly experiment them in side projects and share my findings at conferences or writing tech articles.
 
 ## 🗺️ Where you can find me
- - [Educative.io courses](https://www.educative.io/search?query=leardini)
+ - [Educative.io courses](https://www.educative.io/search?tab=courses&query=leardini) 📖 👨‍🎓 📚
  - [Dev.to](https://dev.to/paco_ita)
  <a href="https://twitter.com/paco_ITA">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
