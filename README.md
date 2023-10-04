@@ -1,8 +1,8 @@
 ## 🙋‍♂️ Who am I
-Originally from Italy, I am currently based in Zurich, Switzerland, working as Principal Software Engineer and Angular Trainer.
+I am currently based in Switzerland, working as Principal Software Engineer and Angular Trainer.
 
-Even though I work as a full stack engineer, having .NET and C# as my backend side, I am a big fan of web technologies, especially Angualar, Svelte, PWAs and modern web in general.
-I love to constantly experiment them in side projects and share my findings at conferences or writing tech articles.
+Even though I work as a full stack engineer, having .NET and C# as my backend side, I am a big fan of web technologies, especially Angular, Svelte, PWAs and modern web in general.
+I love to constantly experiment with them in side projects and share my findings at conferences or writing tech articles.
 
 ## 🗺️ Where you can find me
  - [Educative.io courses](https://www.educative.io/search?tab=courses&query=leardini) 📖 👨‍🎓 📚
