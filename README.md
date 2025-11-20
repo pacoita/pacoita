@@ -31,10 +31,10 @@ I love constantly experimenting with them in side projects and sharing my findin
  </tr>
  <tr>
   <td>
-    <img width="430" src="http://github-readme-streak-stats.herokuapp.com?user=pacoita&theme=tokyonight-duo&background=000000" />
+    <img src="https://paco-github-stats-p2xs.vercel.app/api?username=pacoita&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_title=true&card_width=495px" />
   </td>
    <td>
-    <img src="https://paco-github-stats-p2xs.vercel.app/api?username=pacoita&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_title=true&card_width=495px" />
+    
   </td>
   </tr>
 </table>
